@@ -12,16 +12,16 @@
  - Audience : 110 personnes
  - Auteur du billet : Maxime CARPENTIER - @MaximeCar
  - Mots-clés
-  - Kubernetes
-  - Microservices
-  - Apache Kafka
-  - Event Sourcing
-  - Data Capture
-  - Container
-  - Docker
-  - Fiabilité
-  - Analyse UX
-  - OpenShift
+   - Kubernetes
+   - Microservices
+   - Apache Kafka
+   - Event Sourcing
+   - Data Capture
+   - Container
+   - Docker
+   - Fiabilité
+   - Analyse UX
+   - OpenShift
  - Illustration : ![Image de la conférence, Photo by Maxime Carpentier](img/IMG-CNF-CES-2018.jpg)
    - Image de la conférence, Photo by Maxime Carpentier
 
