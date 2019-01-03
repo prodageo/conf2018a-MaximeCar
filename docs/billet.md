@@ -38,7 +38,6 @@
     - Using CDC to add Microservices to Monolith
     - Event Sourcing: Healthcare, Retail
 
-
 ## Résumé
 Tugdual Grall est un développeur Red Hat Linux spécialisé dans les Microservices. Dans cette conférence, il nous présente la mise en place de microservices à l’aide d'Apache Kafka pour réaliser de l’event sourcing et de Kubernetes pour les déployer. Cet exemple servira de fil rouge pour la présentation.
 
