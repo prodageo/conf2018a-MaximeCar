@@ -8,9 +8,9 @@
  - Horaire de la conférence : 15h40
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - Tugdual Grall (https://www.linkedin.com/in/tugdualgrall/, @tgrall)
+   - Tugdual Grall (https://www.linkedin.com/in/tugdualgrall/, [@tgrall](https://github.com/tgrall))
  - Audience : 110 personnes
- - Auteur du billet : Maxime CARPENTIER - @MaximeCar
+ - Auteur du billet : Maxime CARPENTIER - [@MaximeCar](https://github.com/MaximeCar)
  - Mots-clés
    - Kubernetes
    - Microservices
