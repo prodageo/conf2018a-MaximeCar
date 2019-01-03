@@ -22,7 +22,7 @@
   - Fiabilité
   - Analyse UX
   - OpenShift
- - Illustration : ![Image de la conférence, Photo by Maxime Carpentier](img\IMG-CNF-CES-2018.jpg)
+ - Illustration : ![Image de la conférence, Photo by Maxime Carpentier](img/IMG-CNF-CES-2018.jpg)
    - Image de la conférence, Photo by Maxime Carpentier
 
 ## Support
