@@ -45,11 +45,11 @@ Kafka, produit Apache, est un système de messaging (publish/subscribe) permetta
 
 Kubernetes est un orchestrateur de conteneurs. Cet outil est aujourd'hui un pilier dans le monde du déploiement d'applications. Cet orchestrateur est capable de déployer, de monter et de baisser en charge, d'interconnecter et de monitorer des conteneurs (et donc nos applications) à la volée.
 
-Dès  que le conférencier eut terminé de présenter les capacités des différentes technologies, nous les avons mises en applications par l'exemple.
+Dès que le conférencier eut terminé de présenter les capacités des différentes technologies, nous les avons mises en applications par l'exemple.
 Nous nous plaçons sur une application bancaire, type Monolith, à laquelle on ajoute un serveur Kafka déployé via Kubernetes.
 
 Kafka réalise alors de l'event sourcing pour étudier les flux de données de notre application.
-Par exemple, nous allons pouvoir analyser le comportement d'un utilisateur qui effectue des opérations suspectes. Il utilise alors sa carte de crédit sur internet, ses actions vont être enregistrées par Kafka.Quelques temps plus tard, nous allons analyser ses actions et l'avertir en cas de comportement inhabituel. Cela peut permettre de détecter des fraudes. C'est aussi très utile en cas de panne sur le système : il est alors possible de rejouer le scénario exact des circonstances de la panne.
+Par exemple, nous allons pouvoir analyser le comportement d'un utilisateur qui effectue des opérations suspectes. Il utilise alors sa carte de crédit sur internet, ses actions vont être enregistrées par Kafka. Quelques temps plus tard, nous allons analyser ses actions et l'avertir en cas de comportement inhabituel. Cela peut permettre de détecter des fraudes. C'est aussi très utile en cas de panne sur le système : il est alors possible de rejouer le scénario exact des circonstances de la panne.
 
 ## Architecture et facteur qualité
 Le facteur qualité ressortant le plus à cette conférence est la fiabilité.
